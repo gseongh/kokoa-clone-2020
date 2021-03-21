@@ -1,0 +1,24 @@
+/* #friends-display-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  background-color: rgba(200, 200, 200, 0.1);
+}
+
+#friends-display-link i {
+  opacity: 0.2;
+  padding: 0px 10px;
+} */
+
+#friends-display-link {
+  text-align: center;
+  display: block;
+  background-color: #fafafa;
+  padding: 15px 0px;
+  font-size: 16px;
+}
+
+#friends-display-link i {
+  color: rgba(0, 0, 0, 0.3);
+}
