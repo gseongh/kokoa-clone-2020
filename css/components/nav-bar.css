@@ -40,3 +40,21 @@
   position: absolute;
   left: 30px;
 }
+.screen-header__icons span {
+  position: relative;
+}
+#newChatPlus {
+  margin: 0px;
+  padding: 0px;
+  position: absolute;
+  display: flex;
+  top: -0px;
+  left: 13px;
+  background-color: white;
+  font-weight: 900;
+  height: 10px;
+  width: 10px;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+}
